@@ -333,6 +333,10 @@ Background gradient - body:
   body {
   }
 
+  .section__title {
+    padding: 7rem 0;
+  }
+
   .hamburger {
     display: none;
   }
